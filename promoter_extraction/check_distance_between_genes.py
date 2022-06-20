@@ -73,7 +73,7 @@ def get_genes_with_potential_promoter(gb_record: SeqRecord, distance_threshold: 
 
 
 if __name__ == "__main__":
-    seq_record = parse_gb_file("../sequence_st.gb")
+    seq_record = parse_gb_file("s_thermophilus_genome_annotation.gb")
     tuple_list = create_tuple_list_of_gene_coordinates(seq_record)
     sorted_tuple_list = sort_tuple_list(tuple_list)
     for i in [100, 200, 300, 400]:
