@@ -1,3 +1,5 @@
+![alt text](https://www.eng.uminho.pt/SiteAssets/ENG-EN.png)
+
 # Prediction of gene expression levels in Streptococcus thermophilus
 
 This project was developed with the intention of practicing the implementation of computational tools and the consolidation of the knowledge built in curricular units integrated in the Master's Degree of Bioinformatics in the University of Minho.
