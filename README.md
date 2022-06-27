@@ -1,5 +1,5 @@
 ![alt text](https://www.eng.uminho.pt/SiteAssets/ENG-EN.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChrHansen.svg/2560px-ChrHansen.svg.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChrHansen.svg/2560px-ChrHansen.svg.png" height="140">
 
 # Application of machine learning approaches towards the prediction of gene expression levels in Streptococcus thermophilus*
 
