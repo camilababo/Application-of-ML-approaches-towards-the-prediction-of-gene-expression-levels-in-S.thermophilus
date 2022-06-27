@@ -9,4 +9,4 @@ The chosen approach for this was the Machine Learning algorithm Gradient Tree Bo
 The Gradient Tree Boosting method builds an additive model that allows the optimization of loss functions. 
 Additionaly, we used the open-source machine learning library Extreme Gradient Boosting (XGBoost) designed to improve the implementation of the gradient boosting algorithm.
 
-The dataset used was extracted from another original article (https://www.frontiersin.org/articles/10.3389/fmicb.2018.00445/full).
+The dataset used was extracted from an original article (https://www.frontiersin.org/articles/10.3389/fmicb.2018.00445/full) and the full genome files from the corresponding *Streptococcus thermophilus* strain (ASCC 1275) were downloaded from the NCBI database (Acession Number: CP006819.1).
