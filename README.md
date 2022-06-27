@@ -1,7 +1,7 @@
 ![alt text](https://www.eng.uminho.pt/SiteAssets/ENG-EN.png)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChrHansen.svg/2560px-ChrHansen.svg.png" height="140">
 
-# Application of machine learning approaches towards the prediction of gene expression levels in Streptococcus thermophilus*
+# Application of machine learning approaches towards the prediction of gene expression levels in Streptococcus thermophilus
 
 This project was developed with the intention of practicing the implementation of computational tools and the consolidation of the knowledge built in curricular units integrated in the Master's Degree of Bioinformatics in the University of Minho under orientation from Martin Rau with affiliation from Discovery, Chr. Hansen A/S, Hørsholm, Denmark.
 
