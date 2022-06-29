@@ -6,4 +6,6 @@
 
 ***"dendrogram_300bp_6kmer.pdf"***: PDF file containing a dendrogram representing the hierarchical clustering of the promoter sequences with length of 300 nucleotides and kmers with length of 6 nucleotides;<br/>
 
-***"dendrogram_300bp_6kmer.pdf"***: PDF file containing a dendrogram representing the hierarchical clustering of the promoter sequences with length of 300 nucleotides and kmers with length of 10 nucleotides.
+***"dendrogram_300bp_6kmer.pdf"***: PDF file containing a dendrogram representing the hierarchical clustering of the promoter sequences with length of 300 nucleotides and kmers with length of 10 nucleotides;<br/>
+
+***"gene_expression_dataset.XLSX"***: XLSX file containing gene expression values for the full genome of *Streptococcus thermophilus* strain (ASCC 1275) extracted from an original article (https://www.frontiersin.org/articles/10.3389/fmicb.2018.00445/full). 
